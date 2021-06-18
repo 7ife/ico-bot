@@ -19,7 +19,7 @@
     "homepage": "https://github.com/Ev1ch/icobot#readme",
     "dependencies": {
         "mongodb": "^3.6.9",
-        "node-telegram-bot-api": "^0.53.0"
+        "telegraf": "^4.3.0"
     },
     "devDependencies": {
         "dotenv": "^10.0.0",
